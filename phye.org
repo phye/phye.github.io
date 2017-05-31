@@ -1,0 +1,53 @@
+#+Title: Philip Ye's Home Page
+#+Author: Philip Ye (phye8080@gmail.com)
+
+* I am a(n):
+  - Engineer working on cloud controller platform for connecting video
+    applications together 
+
+  - Engineer used to support cisco's CDN solution for Service Provider 
+    
+  - Enthusiast of GNU/Linux User Space Apps with superficial knowledge
+    of Linux Kernel
+
+  - Crazy user of CLI tools in Linux, including but not limited to
+    vim/zsh/tmux/emacs/ctags/cscope...
+
+  - Engineer focusing on backend with some basic knowledge of HTML/CSS and
+    popular front end framework VUE.js
+
+* I am from:
+  - Qiandao Lake :: The homeland where I was born and raised up
+  - Shanghai Jiao Tong University :: The University where I took Bachelor and Master
+       degree in Electronical Engineering
+  - Shanghai :: The place where I am currently living and working
+  - Cisco :: The Company which I am currently working for
+
+* What I did in the past years:
+** Develop Enginner of VDS-IS(Cisco's CDN Solution for Service Provider) 
+   :PROPERTIES:
+   :DURATION: 2013.04-2014.01
+   :END:
+   - Ramup and regular bug fixes
+   - Sanity Test owner
+** Support Develop Enginner of VDS-IS
+   :PROPERTIES:
+   :DURATION: 2014.02-2014.11
+   :END:
+   - Track customer issues in production environment
+   - Resolve customer issues in production and in lab
+   - Enhance product for components suffering from inproper design
+** Develop Engineer of ng-VDS-IS (Next Generation VDS-IS)
+   :PROPERTIES:
+   :DURATION: 2014.12-2015.03
+   :END:
+   - Keep-alive component owner
+   - Packing for ng-VDS-IS
+** Develop Engineer of V2P-C (Virtualized Video Platform - Controller)
+   :PROPERTIES:
+   :DURATION: 2015.03-
+   :END:
+   - Key player of Multiple Region Support
+   - Feature owner of BareMetal support
+   - Design and Implemented next-generation automation framework
+   - Feature owner of Platform Upgrade
